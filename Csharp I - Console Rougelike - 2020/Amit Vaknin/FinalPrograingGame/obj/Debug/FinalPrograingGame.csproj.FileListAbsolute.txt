@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\FinalPrograingGame\FinalPrograingGame\bin\Debug\FinalPrograingGame.exe.config
+C:\Users\PC\source\repos\FinalPrograingGame\FinalPrograingGame\bin\Debug\FinalPrograingGame.exe
+C:\Users\PC\source\repos\FinalPrograingGame\FinalPrograingGame\bin\Debug\FinalPrograingGame.pdb
+C:\Users\PC\source\repos\FinalPrograingGame\FinalPrograingGame\obj\Debug\FinalPrograingGame.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\FinalPrograingGame\FinalPrograingGame\obj\Debug\FinalPrograingGame.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\FinalPrograingGame\FinalPrograingGame\obj\Debug\FinalPrograingGame.exe
+C:\Users\PC\source\repos\FinalPrograingGame\FinalPrograingGame\obj\Debug\FinalPrograingGame.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\Amit Vaknin\FinalPrograingGame\bin\Debug\FinalPrograingGame.exe.config
+C:\Users\user\Desktop\Tiltan Csharp Projects\Amit Vaknin\FinalPrograingGame\bin\Debug\FinalPrograingGame.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Amit Vaknin\FinalPrograingGame\bin\Debug\FinalPrograingGame.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\Amit Vaknin\FinalPrograingGame\obj\Debug\FinalPrograingGame.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Amit Vaknin\FinalPrograingGame\obj\Debug\FinalPrograingGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Amit Vaknin\FinalPrograingGame\obj\Debug\FinalPrograingGame.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Amit Vaknin\FinalPrograingGame\obj\Debug\FinalPrograingGame.pdb

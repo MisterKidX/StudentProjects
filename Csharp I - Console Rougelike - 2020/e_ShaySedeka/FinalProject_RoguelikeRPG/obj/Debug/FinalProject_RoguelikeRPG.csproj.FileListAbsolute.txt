@@ -1,0 +1,20 @@
+D:\Study\Tiltan\Semester 1\Programming\Final Project\FinalProject_RoguelikeRPG\FinalProject_RoguelikeRPG\obj\Debug\FinalProject_RoguelikeRPG.csproj.CoreCompileInputs.cache
+D:\Study\Tiltan\Semester 1\Programming\Final Project\FinalProject_RoguelikeRPG\FinalProject_RoguelikeRPG\obj\Debug\FinalProject_RoguelikeRPG.csprojAssemblyReference.cache
+D:\Study\Tiltan\Semester 1\Programming\Final Project\FinalProject_RoguelikeRPG\FinalProject_RoguelikeRPG\bin\Debug\Brightest Dungeon.exe.config
+D:\Study\Tiltan\Semester 1\Programming\Final Project\FinalProject_RoguelikeRPG\FinalProject_RoguelikeRPG\bin\Debug\Brightest Dungeon.exe
+D:\Study\Tiltan\Semester 1\Programming\Final Project\FinalProject_RoguelikeRPG\FinalProject_RoguelikeRPG\bin\Debug\Brightest Dungeon.pdb
+D:\Study\Tiltan\Semester 1\Programming\Final Project\FinalProject_RoguelikeRPG\FinalProject_RoguelikeRPG\obj\Debug\Brightest Dungeon.exe
+D:\Study\Tiltan\Semester 1\Programming\Final Project\FinalProject_RoguelikeRPG\FinalProject_RoguelikeRPG\obj\Debug\Brightest Dungeon.pdb
+D:\Study\Tiltan\Semester 1\Programming\Final Project\FinalProject_RoguelikeRPG\FinalProject_RoguelikeRPG\bin\Debug\Brightest Dungeon.exe.manifest
+D:\Study\Tiltan\Semester 1\Programming\Final Project\FinalProject_RoguelikeRPG\FinalProject_RoguelikeRPG\bin\Debug\Brightest Dungeon.application
+D:\Study\Tiltan\Semester 1\Programming\Final Project\FinalProject_RoguelikeRPG\FinalProject_RoguelikeRPG\obj\Debug\Brightest Dungeon.exe.manifest
+D:\Study\Tiltan\Semester 1\Programming\Final Project\FinalProject_RoguelikeRPG\FinalProject_RoguelikeRPG\obj\Debug\Brightest Dungeon.application
+D:\Study\Tiltan\Semester 1\Programming\Final Project\FinalProject_RoguelikeRPG\FinalProject_RoguelikeRPG\obj\Debug\FinalProject_RoguelikeRPG.Properties.Resources.resources
+D:\Study\Tiltan\Semester 1\Programming\Final Project\FinalProject_RoguelikeRPG\FinalProject_RoguelikeRPG\obj\Debug\FinalProject_RoguelikeRPG.csproj.GenerateResource.cache
+D:\Study\Tiltan\Semester 1\Programming\Final Project\FinalProject_RoguelikeRPG\FinalProject_RoguelikeRPG\bin\Debug\sounds\background_music_lowered3.mp3
+D:\Study\Tiltan\Semester 1\Programming\Final Project\FinalProject_RoguelikeRPG\FinalProject_RoguelikeRPG\bin\Debug\sounds\walk2.mp3
+D:\Study\Tiltan\Semester 1\Programming\Final Project\FinalProject_RoguelikeRPG\FinalProject_RoguelikeRPG\bin\Debug\sounds\die.wav
+D:\Study\Tiltan\Semester 1\Programming\Final Project\FinalProject_RoguelikeRPG\FinalProject_RoguelikeRPG\bin\Debug\sounds\exit.wav
+D:\Study\Tiltan\Semester 1\Programming\Final Project\FinalProject_RoguelikeRPG\FinalProject_RoguelikeRPG\bin\Debug\sounds\shrine.wav
+D:\Study\Tiltan\Semester 1\Programming\Final Project\FinalProject_RoguelikeRPG\FinalProject_RoguelikeRPG\bin\Debug\sounds\swing.wav
+D:\Study\Tiltan\Semester 1\Programming\Final Project\FinalProject_RoguelikeRPG\FinalProject_RoguelikeRPG\bin\Debug\sounds\walk.wav

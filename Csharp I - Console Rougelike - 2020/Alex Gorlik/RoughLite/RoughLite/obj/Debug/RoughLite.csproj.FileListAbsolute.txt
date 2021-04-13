@@ -1,0 +1,14 @@
+G:\ClassProjectRoughlite\RoughLite\RoughLite\bin\Debug\RoughLite.exe.config
+G:\ClassProjectRoughlite\RoughLite\RoughLite\bin\Debug\RoughLite.exe
+G:\ClassProjectRoughlite\RoughLite\RoughLite\bin\Debug\RoughLite.pdb
+G:\ClassProjectRoughlite\RoughLite\RoughLite\obj\Debug\RoughLite.csproj.CoreCompileInputs.cache
+G:\ClassProjectRoughlite\RoughLite\RoughLite\obj\Debug\RoughLite.exe
+G:\ClassProjectRoughlite\RoughLite\RoughLite\obj\Debug\RoughLite.pdb
+G:\ClassProjectRoughlite\RoughLite\RoughLite\obj\Debug\RoughLite.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Alex Gorlik\RoughLite\RoughLite\bin\Debug\RoughLite.exe.config
+C:\Users\user\Desktop\Tiltan Csharp Projects\Alex Gorlik\RoughLite\RoughLite\bin\Debug\RoughLite.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Alex Gorlik\RoughLite\RoughLite\bin\Debug\RoughLite.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\Alex Gorlik\RoughLite\RoughLite\obj\Debug\RoughLite.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Alex Gorlik\RoughLite\RoughLite\obj\Debug\RoughLite.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Alex Gorlik\RoughLite\RoughLite\obj\Debug\RoughLite.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Alex Gorlik\RoughLite\RoughLite\obj\Debug\RoughLite.pdb

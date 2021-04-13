@@ -1,0 +1,21 @@
+C:\Users\edeya\OneDrive\Documents\אוניברסיטה\תלתן\שנה א\סמסטר א\תכנות\Finale Project\Finale_Project\Finale_Project\bin\Debug\Finale_Project.exe.config
+C:\Users\edeya\OneDrive\Documents\אוניברסיטה\תלתן\שנה א\סמסטר א\תכנות\Finale Project\Finale_Project\Finale_Project\bin\Debug\Finale_Project.exe
+C:\Users\edeya\OneDrive\Documents\אוניברסיטה\תלתן\שנה א\סמסטר א\תכנות\Finale Project\Finale_Project\Finale_Project\bin\Debug\Finale_Project.pdb
+C:\Users\edeya\OneDrive\Documents\אוניברסיטה\תלתן\שנה א\סמסטר א\תכנות\Finale Project\Finale_Project\Finale_Project\obj\Debug\Finale_Project.csproj.CoreCompileInputs.cache
+C:\Users\edeya\OneDrive\Documents\אוניברסיטה\תלתן\שנה א\סמסטר א\תכנות\Finale Project\Finale_Project\Finale_Project\obj\Debug\Finale_Project.exe
+C:\Users\edeya\OneDrive\Documents\אוניברסיטה\תלתן\שנה א\סמסטר א\תכנות\Finale Project\Finale_Project\Finale_Project\obj\Debug\Finale_Project.pdb
+C:\Users\edeya\OneDrive\Documents\אוניברסיטה\תלתן\שנה א\סמסטר א\תכנות\Finale Project\Finale_Project\Finale_Project\obj\Debug\Finale_Project.csprojAssemblyReference.cache
+C:\Users\edeya\Desktop\Finale_Project\Finale_Project\bin\Debug\Finale_Project.exe.config
+C:\Users\edeya\Desktop\Finale_Project\Finale_Project\bin\Debug\Finale_Project.exe
+C:\Users\edeya\Desktop\Finale_Project\Finale_Project\bin\Debug\Finale_Project.pdb
+C:\Users\edeya\Desktop\Finale_Project\Finale_Project\obj\Debug\Finale_Project.csprojAssemblyReference.cache
+C:\Users\edeya\Desktop\Finale_Project\Finale_Project\obj\Debug\Finale_Project.csproj.CoreCompileInputs.cache
+C:\Users\edeya\Desktop\Finale_Project\Finale_Project\obj\Debug\Finale_Project.exe
+C:\Users\edeya\Desktop\Finale_Project\Finale_Project\obj\Debug\Finale_Project.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\Eyal Deutcher\Finale_Project\Finale_Project\bin\Debug\Finale_Project.exe.config
+C:\Users\user\Desktop\Tiltan Csharp Projects\Eyal Deutcher\Finale_Project\Finale_Project\bin\Debug\Finale_Project.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Eyal Deutcher\Finale_Project\Finale_Project\bin\Debug\Finale_Project.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\Eyal Deutcher\Finale_Project\Finale_Project\obj\Debug\Finale_Project.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Eyal Deutcher\Finale_Project\Finale_Project\obj\Debug\Finale_Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Eyal Deutcher\Finale_Project\Finale_Project\obj\Debug\Finale_Project.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Eyal Deutcher\Finale_Project\Finale_Project\obj\Debug\Finale_Project.pdb

@@ -1,0 +1,7 @@
+C:\Users\maya\source\repos\ConsoleGameRogLike\bin\Debug\ConsoleGameRogLike.exe.config
+C:\Users\maya\source\repos\ConsoleGameRogLike\bin\Debug\ConsoleGameRogLike.exe
+C:\Users\maya\source\repos\ConsoleGameRogLike\bin\Debug\ConsoleGameRogLike.pdb
+C:\Users\maya\source\repos\ConsoleGameRogLike\obj\Debug\ConsoleGameRogLike.csprojAssemblyReference.cache
+C:\Users\maya\source\repos\ConsoleGameRogLike\obj\Debug\ConsoleGameRogLike.csproj.CoreCompileInputs.cache
+C:\Users\maya\source\repos\ConsoleGameRogLike\obj\Debug\ConsoleGameRogLike.exe
+C:\Users\maya\source\repos\ConsoleGameRogLike\obj\Debug\ConsoleGameRogLike.pdb

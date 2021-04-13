@@ -1,0 +1,13 @@
+C:\Users\Sk3l3\source\repos\EndOfSemester Project\bin\Debug\EndOfSemester Project.exe.config
+C:\Users\Sk3l3\source\repos\EndOfSemester Project\bin\Debug\EndOfSemester Project.exe
+C:\Users\Sk3l3\source\repos\EndOfSemester Project\bin\Debug\EndOfSemester Project.pdb
+C:\Users\Sk3l3\source\repos\EndOfSemester Project\obj\Debug\EndOfSemester Project.csproj.CoreCompileInputs.cache
+C:\Users\Sk3l3\source\repos\EndOfSemester Project\obj\Debug\EndOfSemester Project.exe
+C:\Users\Sk3l3\source\repos\EndOfSemester Project\obj\Debug\EndOfSemester Project.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\Robert Dibi\bin\Debug\EndOfSemester Project.exe.config
+C:\Users\user\Desktop\Tiltan Csharp Projects\Robert Dibi\bin\Debug\EndOfSemester Project.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Robert Dibi\bin\Debug\EndOfSemester Project.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\Robert Dibi\obj\Debug\EndOfSemester Project.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Robert Dibi\obj\Debug\EndOfSemester Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Robert Dibi\obj\Debug\EndOfSemester Project.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Robert Dibi\obj\Debug\EndOfSemester Project.pdb

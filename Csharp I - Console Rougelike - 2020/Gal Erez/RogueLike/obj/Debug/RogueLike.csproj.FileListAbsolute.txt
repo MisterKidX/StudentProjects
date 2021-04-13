@@ -1,0 +1,14 @@
+C:\Users\Gal\source\repos\RogueLike\RogueLike\bin\Debug\RogueLike.exe.config
+C:\Users\Gal\source\repos\RogueLike\RogueLike\bin\Debug\RogueLike.exe
+C:\Users\Gal\source\repos\RogueLike\RogueLike\bin\Debug\RogueLike.pdb
+C:\Users\Gal\source\repos\RogueLike\RogueLike\obj\Debug\RogueLike.csprojAssemblyReference.cache
+C:\Users\Gal\source\repos\RogueLike\RogueLike\obj\Debug\RogueLike.csproj.CoreCompileInputs.cache
+C:\Users\Gal\source\repos\RogueLike\RogueLike\obj\Debug\RogueLike.exe
+C:\Users\Gal\source\repos\RogueLike\RogueLike\obj\Debug\RogueLike.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\Gal Erez\RogueLike\bin\Debug\RogueLike.exe.config
+C:\Users\user\Desktop\Tiltan Csharp Projects\Gal Erez\RogueLike\bin\Debug\RogueLike.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Gal Erez\RogueLike\bin\Debug\RogueLike.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\Gal Erez\RogueLike\obj\Debug\RogueLike.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Gal Erez\RogueLike\obj\Debug\RogueLike.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Gal Erez\RogueLike\obj\Debug\RogueLike.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Gal Erez\RogueLike\obj\Debug\RogueLike.pdb

@@ -1,0 +1,56 @@
+C:\Users\Eli-PC\source\repos\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Users\Eli-PC\source\repos\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+C:\Users\Eli-PC\source\repos\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Users\Eli-PC\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Eli-PC\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\Eli-PC\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb
+C:\Users\Eli-PC\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2\ConsoleGame\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2\ConsoleGame\obj\Debug\ConsoleGame.pdb
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2 - Copy\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2 - Copy\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2 - Copy\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2 - Copy\ConsoleGame\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2 - Copy\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2 - Copy\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2 - Copy\ConsoleGame\obj\Debug\ConsoleGame.pdb
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2 - Copy - Copy\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2 - Copy - Copy\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2 - Copy - Copy\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2 - Copy - Copy\ConsoleGame\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2 - Copy - Copy\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2 - Copy - Copy\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\Eli-PC\source\repos\Backups\ConsoleGame4\ConsoleGame - 27.2 - Copy - Copy\ConsoleGame\obj\Debug\ConsoleGame.pdb
+C:\Users\Eli-PC\Desktop\ConsoleGame - 27.2 - Copy - Copy\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+C:\Users\Eli-PC\Desktop\ConsoleGame - 27.2 - Copy - Copy\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Users\Eli-PC\Desktop\ConsoleGame - 27.2 - Copy - Copy\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Users\Eli-PC\Desktop\ConsoleGame - 27.2 - Copy - Copy\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Eli-PC\Desktop\ConsoleGame - 27.2 - Copy - Copy\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\Eli-PC\Desktop\ConsoleGame - 27.2 - Copy - Copy\ConsoleGame\obj\Debug\ConsoleGame.pdb
+C:\Users\Eli-PC\Desktop\ConsoleGame - 27.2 - Copy - Copy\ConsoleGame\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\Eli-PC\Desktop\ConsoleGame - Eli Zaidman\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+C:\Users\Eli-PC\Desktop\ConsoleGame - Eli Zaidman\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Users\Eli-PC\Desktop\ConsoleGame - Eli Zaidman\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Users\Eli-PC\Desktop\ConsoleGame - Eli Zaidman\ConsoleGame\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\Eli-PC\Desktop\ConsoleGame - Eli Zaidman\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Eli-PC\Desktop\ConsoleGame - Eli Zaidman\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\Eli-PC\Desktop\ConsoleGame - Eli Zaidman\ConsoleGame\obj\Debug\ConsoleGame.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\Eli Zaidman\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+C:\Users\user\Desktop\Tiltan Csharp Projects\Eli Zaidman\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Eli Zaidman\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\Eli Zaidman\ConsoleGame\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Eli Zaidman\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Eli Zaidman\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Eli Zaidman\ConsoleGame\obj\Debug\ConsoleGame.pdb

@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Finale_Project
+{
+    public class GameObject
+    {
+        public Position position = new Position(0, 0);
+    }
+}

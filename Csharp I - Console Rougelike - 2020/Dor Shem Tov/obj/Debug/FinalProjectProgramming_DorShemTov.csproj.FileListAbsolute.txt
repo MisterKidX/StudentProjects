@@ -1,0 +1,14 @@
+C:\Users\dorsh\source\repos\FinalProjectProgramming_DorShemTov\bin\Debug\FinalProjectProgramming_DorShemTov.exe.config
+C:\Users\dorsh\source\repos\FinalProjectProgramming_DorShemTov\bin\Debug\FinalProjectProgramming_DorShemTov.exe
+C:\Users\dorsh\source\repos\FinalProjectProgramming_DorShemTov\bin\Debug\FinalProjectProgramming_DorShemTov.pdb
+C:\Users\dorsh\source\repos\FinalProjectProgramming_DorShemTov\obj\Debug\FinalProjectProgramming_DorShemTov.csprojAssemblyReference.cache
+C:\Users\dorsh\source\repos\FinalProjectProgramming_DorShemTov\obj\Debug\FinalProjectProgramming_DorShemTov.csproj.CoreCompileInputs.cache
+C:\Users\dorsh\source\repos\FinalProjectProgramming_DorShemTov\obj\Debug\FinalProjectProgramming_DorShemTov.exe
+C:\Users\dorsh\source\repos\FinalProjectProgramming_DorShemTov\obj\Debug\FinalProjectProgramming_DorShemTov.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\Dor Shem Tov\bin\Debug\FinalProjectProgramming_DorShemTov.exe.config
+C:\Users\user\Desktop\Tiltan Csharp Projects\Dor Shem Tov\bin\Debug\FinalProjectProgramming_DorShemTov.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Dor Shem Tov\bin\Debug\FinalProjectProgramming_DorShemTov.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\Dor Shem Tov\obj\Debug\FinalProjectProgramming_DorShemTov.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Dor Shem Tov\obj\Debug\FinalProjectProgramming_DorShemTov.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Dor Shem Tov\obj\Debug\FinalProjectProgramming_DorShemTov.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Dor Shem Tov\obj\Debug\FinalProjectProgramming_DorShemTov.pdb

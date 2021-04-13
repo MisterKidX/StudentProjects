@@ -1,0 +1,14 @@
+C:\Users\Gift\source\repos\2021\February\1-2-2021TiltanClassWorkCSProject\1-2-2021TiltanClassWorkCSProject\bin\Debug\1-2-2021TiltanClassWorkCSProject.exe.config
+C:\Users\Gift\source\repos\2021\February\1-2-2021TiltanClassWorkCSProject\1-2-2021TiltanClassWorkCSProject\bin\Debug\1-2-2021TiltanClassWorkCSProject.exe
+C:\Users\Gift\source\repos\2021\February\1-2-2021TiltanClassWorkCSProject\1-2-2021TiltanClassWorkCSProject\bin\Debug\1-2-2021TiltanClassWorkCSProject.pdb
+C:\Users\Gift\source\repos\2021\February\1-2-2021TiltanClassWorkCSProject\1-2-2021TiltanClassWorkCSProject\obj\Debug\1-2-2021TiltanClassWorkCSProject.csprojAssemblyReference.cache
+C:\Users\Gift\source\repos\2021\February\1-2-2021TiltanClassWorkCSProject\1-2-2021TiltanClassWorkCSProject\obj\Debug\1-2-2021TiltanClassWorkCSProject.csproj.CoreCompileInputs.cache
+C:\Users\Gift\source\repos\2021\February\1-2-2021TiltanClassWorkCSProject\1-2-2021TiltanClassWorkCSProject\obj\Debug\1-2-2021TiltanClassWorkCSProject.exe
+C:\Users\Gift\source\repos\2021\February\1-2-2021TiltanClassWorkCSProject\1-2-2021TiltanClassWorkCSProject\obj\Debug\1-2-2021TiltanClassWorkCSProject.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\George Rashed\1-2-2021TiltanClassWorkCSProject\bin\Debug\1-2-2021TiltanClassWorkCSProject.exe.config
+C:\Users\user\Desktop\Tiltan Csharp Projects\George Rashed\1-2-2021TiltanClassWorkCSProject\bin\Debug\1-2-2021TiltanClassWorkCSProject.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\George Rashed\1-2-2021TiltanClassWorkCSProject\bin\Debug\1-2-2021TiltanClassWorkCSProject.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\George Rashed\1-2-2021TiltanClassWorkCSProject\obj\Debug\1-2-2021TiltanClassWorkCSProject.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\George Rashed\1-2-2021TiltanClassWorkCSProject\obj\Debug\1-2-2021TiltanClassWorkCSProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\George Rashed\1-2-2021TiltanClassWorkCSProject\obj\Debug\1-2-2021TiltanClassWorkCSProject.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\George Rashed\1-2-2021TiltanClassWorkCSProject\obj\Debug\1-2-2021TiltanClassWorkCSProject.pdb

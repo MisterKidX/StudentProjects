@@ -1,0 +1,14 @@
+C:\Users\Ron\source\repos\FinalProject101_RonBandel\FinalProject101_RonBandel\bin\Debug\FinalProject101_RonBandel.exe.config
+C:\Users\Ron\source\repos\FinalProject101_RonBandel\FinalProject101_RonBandel\bin\Debug\FinalProject101_RonBandel.exe
+C:\Users\Ron\source\repos\FinalProject101_RonBandel\FinalProject101_RonBandel\bin\Debug\FinalProject101_RonBandel.pdb
+C:\Users\Ron\source\repos\FinalProject101_RonBandel\FinalProject101_RonBandel\obj\Debug\FinalProject101_RonBandel.csprojAssemblyReference.cache
+C:\Users\Ron\source\repos\FinalProject101_RonBandel\FinalProject101_RonBandel\obj\Debug\FinalProject101_RonBandel.csproj.CoreCompileInputs.cache
+C:\Users\Ron\source\repos\FinalProject101_RonBandel\FinalProject101_RonBandel\obj\Debug\FinalProject101_RonBandel.exe
+C:\Users\Ron\source\repos\FinalProject101_RonBandel\FinalProject101_RonBandel\obj\Debug\FinalProject101_RonBandel.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\RonBandel\FinalProject101_RonBandel\bin\Debug\FinalProject101_RonBandel.exe.config
+C:\Users\user\Desktop\Tiltan Csharp Projects\RonBandel\FinalProject101_RonBandel\bin\Debug\FinalProject101_RonBandel.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\RonBandel\FinalProject101_RonBandel\bin\Debug\FinalProject101_RonBandel.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\RonBandel\FinalProject101_RonBandel\obj\Debug\FinalProject101_RonBandel.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\RonBandel\FinalProject101_RonBandel\obj\Debug\FinalProject101_RonBandel.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\RonBandel\FinalProject101_RonBandel\obj\Debug\FinalProject101_RonBandel.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\RonBandel\FinalProject101_RonBandel\obj\Debug\FinalProject101_RonBandel.pdb

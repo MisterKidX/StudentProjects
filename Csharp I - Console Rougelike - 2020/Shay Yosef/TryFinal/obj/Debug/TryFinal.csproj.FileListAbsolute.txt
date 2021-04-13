@@ -1,0 +1,14 @@
+C:\Users\Shay\source\repos\TryFinal\TryFinal\bin\Debug\TryFinal.exe.config
+C:\Users\Shay\source\repos\TryFinal\TryFinal\bin\Debug\TryFinal.exe
+C:\Users\Shay\source\repos\TryFinal\TryFinal\bin\Debug\TryFinal.pdb
+C:\Users\Shay\source\repos\TryFinal\TryFinal\obj\Debug\TryFinal.csproj.CoreCompileInputs.cache
+C:\Users\Shay\source\repos\TryFinal\TryFinal\obj\Debug\TryFinal.exe
+C:\Users\Shay\source\repos\TryFinal\TryFinal\obj\Debug\TryFinal.pdb
+C:\Users\Shay\source\repos\TryFinal\TryFinal\obj\Debug\TryFinal.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Shay Yosef\TryFinal\bin\Debug\TryFinal.exe.config
+C:\Users\user\Desktop\Tiltan Csharp Projects\Shay Yosef\TryFinal\bin\Debug\TryFinal.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Shay Yosef\TryFinal\bin\Debug\TryFinal.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\Shay Yosef\TryFinal\obj\Debug\TryFinal.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Shay Yosef\TryFinal\obj\Debug\TryFinal.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Shay Yosef\TryFinal\obj\Debug\TryFinal.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Shay Yosef\TryFinal\obj\Debug\TryFinal.pdb

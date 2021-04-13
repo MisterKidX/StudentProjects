@@ -1,0 +1,14 @@
+C:\Users\Alkin\Tiltan\Programming\RPGgame\bin\Debug\RPGgame.exe.config
+C:\Users\Alkin\Tiltan\Programming\RPGgame\bin\Debug\RPGgame.exe
+C:\Users\Alkin\Tiltan\Programming\RPGgame\bin\Debug\RPGgame.pdb
+C:\Users\Alkin\Tiltan\Programming\RPGgame\obj\Debug\RPGgame.csprojAssemblyReference.cache
+C:\Users\Alkin\Tiltan\Programming\RPGgame\obj\Debug\RPGgame.csproj.CoreCompileInputs.cache
+C:\Users\Alkin\Tiltan\Programming\RPGgame\obj\Debug\RPGgame.exe
+C:\Users\Alkin\Tiltan\Programming\RPGgame\obj\Debug\RPGgame.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\Alla Makarov\bin\Debug\RPGgame.exe.config
+C:\Users\user\Desktop\Tiltan Csharp Projects\Alla Makarov\bin\Debug\RPGgame.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Alla Makarov\bin\Debug\RPGgame.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\Alla Makarov\obj\Debug\RPGgame.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Alla Makarov\obj\Debug\RPGgame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Alla Makarov\obj\Debug\RPGgame.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Alla Makarov\obj\Debug\RPGgame.pdb

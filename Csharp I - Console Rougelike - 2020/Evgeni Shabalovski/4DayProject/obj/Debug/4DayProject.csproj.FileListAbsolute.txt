@@ -1,0 +1,21 @@
+C:\Users\Nightmare\source\repos\4DayProject\4DayProject\obj\Debug\4DayProject.csprojAssemblyReference.cache
+C:\Users\Nightmare\source\repos\4DayProject\4DayProject\obj\Debug\4DayProject.csproj.CoreCompileInputs.cache
+C:\Users\Nightmare\source\repos\4DayProject\4DayProject\bin\Debug\4DayProject.exe.config
+C:\Users\Nightmare\source\repos\4DayProject\4DayProject\bin\Debug\4DayProject.exe
+C:\Users\Nightmare\source\repos\4DayProject\4DayProject\bin\Debug\4DayProject.pdb
+C:\Users\Nightmare\source\repos\4DayProject\4DayProject\obj\Debug\4DayProject.exe
+C:\Users\Nightmare\source\repos\4DayProject\4DayProject\obj\Debug\4DayProject.pdb
+G:\School\Projects\C# 101\Projects\4DayProject\4DayProject\bin\Debug\4DayProject.exe.config
+G:\School\Projects\C# 101\Projects\4DayProject\4DayProject\bin\Debug\4DayProject.exe
+G:\School\Projects\C# 101\Projects\4DayProject\4DayProject\bin\Debug\4DayProject.pdb
+G:\School\Projects\C# 101\Projects\4DayProject\4DayProject\obj\Debug\4DayProject.csprojAssemblyReference.cache
+G:\School\Projects\C# 101\Projects\4DayProject\4DayProject\obj\Debug\4DayProject.csproj.CoreCompileInputs.cache
+G:\School\Projects\C# 101\Projects\4DayProject\4DayProject\obj\Debug\4DayProject.exe
+G:\School\Projects\C# 101\Projects\4DayProject\4DayProject\obj\Debug\4DayProject.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\Evgeni Shabalovski\4DayProject\bin\Debug\4DayProject.exe.config
+C:\Users\user\Desktop\Tiltan Csharp Projects\Evgeni Shabalovski\4DayProject\bin\Debug\4DayProject.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Evgeni Shabalovski\4DayProject\bin\Debug\4DayProject.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\Evgeni Shabalovski\4DayProject\obj\Debug\4DayProject.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Evgeni Shabalovski\4DayProject\obj\Debug\4DayProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Evgeni Shabalovski\4DayProject\obj\Debug\4DayProject.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Evgeni Shabalovski\4DayProject\obj\Debug\4DayProject.pdb

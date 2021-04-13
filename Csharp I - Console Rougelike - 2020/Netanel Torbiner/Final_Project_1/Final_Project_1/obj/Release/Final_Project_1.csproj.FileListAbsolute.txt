@@ -1,0 +1,17 @@
+C:\Users\torbi\Desktop\Learning\Programming\Visual Studio Projects\Final_Project_1-1\Final_Project_1-3\Final_Project_1\Final_Project_1\bin\Release\Final_Project_1.exe.config
+C:\Users\torbi\Desktop\Learning\Programming\Visual Studio Projects\Final_Project_1-1\Final_Project_1-3\Final_Project_1\Final_Project_1\bin\Release\Final_Project_1.exe
+C:\Users\torbi\Desktop\Learning\Programming\Visual Studio Projects\Final_Project_1-1\Final_Project_1-3\Final_Project_1\Final_Project_1\bin\Release\Final_Project_1.pdb
+C:\Users\torbi\Desktop\Learning\Programming\Visual Studio Projects\Final_Project_1-1\Final_Project_1-3\Final_Project_1\Final_Project_1\obj\Release\Final_Project_1.csproj.CoreCompileInputs.cache
+C:\Users\torbi\Desktop\Learning\Programming\Visual Studio Projects\Final_Project_1-1\Final_Project_1-3\Final_Project_1\Final_Project_1\obj\Release\Final_Project_1.exe
+C:\Users\torbi\Desktop\Learning\Programming\Visual Studio Projects\Final_Project_1-1\Final_Project_1-3\Final_Project_1\Final_Project_1\obj\Release\Final_Project_1.pdb
+C:\Users\torbi\Desktop\Learning\Programming\Visual Studio Projects\Final_Project_1-1\Final_Project_1-3\Final_Project_1\Final_Project_1\obj\Release\Final_Project_1.Properties.Resources.resources
+C:\Users\torbi\Desktop\Learning\Programming\Visual Studio Projects\Final_Project_1-1\Final_Project_1-3\Final_Project_1\Final_Project_1\obj\Release\Final_Project_1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Netanel Torbiner\Final_Project_1\Final_Project_1\bin\Release\Final_Project_1.exe.config
+C:\Users\user\Desktop\Tiltan Csharp Projects\Netanel Torbiner\Final_Project_1\Final_Project_1\bin\Release\Final_Project_1.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Netanel Torbiner\Final_Project_1\Final_Project_1\bin\Release\Final_Project_1.pdb
+C:\Users\user\Desktop\Tiltan Csharp Projects\Netanel Torbiner\Final_Project_1\Final_Project_1\obj\Release\Final_Project_1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Netanel Torbiner\Final_Project_1\Final_Project_1\obj\Release\Final_Project_1.Properties.Resources.resources
+C:\Users\user\Desktop\Tiltan Csharp Projects\Netanel Torbiner\Final_Project_1\Final_Project_1\obj\Release\Final_Project_1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Netanel Torbiner\Final_Project_1\Final_Project_1\obj\Release\Final_Project_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tiltan Csharp Projects\Netanel Torbiner\Final_Project_1\Final_Project_1\obj\Release\Final_Project_1.exe
+C:\Users\user\Desktop\Tiltan Csharp Projects\Netanel Torbiner\Final_Project_1\Final_Project_1\obj\Release\Final_Project_1.pdb
